@@ -1,10 +1,10 @@
-**INSTALLATION**
+## **INSTALLATION**
 
 Requirements - needs sbt to be installed.
 How to run - execute run.sh to startup an api node and two backend nodes or run corresponding main classes from IDE of choice.
 Ports required to be available - 2551-2553 & 8080 (change in startup params if needed).
 
-**API**
+## **API**
 
 POST ${host}:8080/index - index a document
 
